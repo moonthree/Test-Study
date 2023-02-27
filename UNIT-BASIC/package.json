@@ -1,0 +1,17 @@
+{
+  "name": "unit-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "@types/jest": "^29.4.0"
+  }
+}
